@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Roboto:wght@300;400;700&display=swap');
+
+.footer{
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    padding-block: 0.5rem;
+    background-color: #000;
+    border-top: 2px solid #E50914;
+}
+
+.footer h2{
+    font-size: 1rem;
+    font-weight: 500;
+    color: #fff;
+}

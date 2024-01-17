@@ -1,0 +1,171 @@
+[
+    {
+    "id": "6ZfuNTqbHE8",
+    "title": "Avengers",
+    "cover": "https://img.youtube.com/vi/6ZfuNTqbHE8/mqdefault.jpg",
+    "url": "https://www.youtube.com/watch?v=6ZfuNTqbHE8",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "JfVOs4VSpmA",
+    "title": "Spider-man",
+    "cover": "https://img.youtube.com/vi/JfVOs4VSpmA/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=JfVOs4VSpmA",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "rjp0DQlz1i4",
+    "title": "Avengers ULtimato",
+    "cover": "https://img.youtube.com/vi/rjp0DQlz1i4/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=rjp0DQlz1i4",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "u3V5KDHRQvk",
+    "title": "Guardians of the galaxy",
+    "cover": "https://img.youtube.com/vi/u3V5KDHRQvk/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=u3V5KDHRQvk",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "Q9X-bAE8KTc",
+    "title": "Deadpool",
+    "cover": "https://img.youtube.com/vi/Q9X-bAE8KTc/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=Q9X-bAE8KTc",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "jrLhP5sK2wI",
+    "title": "Punisher",
+    "cover": "https://img.youtube.com/vi/jrLhP5sK2wI/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=jrLhP5sK2wI",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "2Cn3DVV0LHY",
+    "title": "Demolidor",
+    "cover": "https://img.youtube.com/vi/2Cn3DVV0LHY/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=2Cn3DVV0LHY",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "RWSuAC9CYxo",
+    "title": "Logan",
+    "cover": "https://img.youtube.com/vi/RWSuAC9CYxo/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=RWSuAC9CYxo",
+    "category": "Marvel"
+    },
+
+    {
+    "id": "w4OdIOGBW2Q",
+    "title": "Flash",
+    "cover": "https://img.youtube.com/vi/w4OdIOGBW2Q/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=w4OdIOGBW2Q",
+    "category": "DC"
+    },
+
+    {
+    "id": "_mrr3UNALww",
+    "title": "Peacemaker",
+    "cover": "https://img.youtube.com/vi/_mrr3UNALww/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=_mrr3UNALww",
+    "category": "DC"
+    },
+
+    {
+    "id": "r51cYVZWKdY",
+    "title": "Superman",
+    "cover": "https://img.youtube.com/vi/r51cYVZWKdY/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=r51cYVZWKdY",
+    "category": "DC"
+    },
+
+    {
+    "id": "oTXrl8H6luI",
+    "title": "JusticeLeague",
+    "cover": "https://img.youtube.com/vi/oTXrl8H6luI/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=oTXrl8H6luI",
+    "category": "DC"
+    },
+
+    {
+    "id": "JuDLepNa7hw",
+    "title": "SuicideSquad",
+    "cover": "https://img.youtube.com/vi/JuDLepNa7hw/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=JuDLepNa7hw",
+    "category": "DC"
+    },
+
+    {
+    "id": "EXeTwQWrcwY",
+    "title": "Batman",
+    "cover": "https://img.youtube.com/vi/EXeTwQWrcwY/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=EXeTwQWrcwY",
+    "category": "DC"
+    },
+
+    {
+    "id": "xxY2QKXYUVs",
+    "title": "Aquaman",
+    "cover": "https://img.youtube.com/vi/xxY2QKXYUVs/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=xxY2QKXYUVs",
+    "category": "DC"
+    },
+
+    {
+    "id": "piv24m_AFIE",
+    "title": "Bleach",
+    "cover": "https://img.youtube.com/vi/piv24m_AFIE/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=piv24m_AFIE",
+    "category": "Anime"
+    },
+
+    {
+    "id": "bo_mkoII-wA",
+    "title": "DeathNote",
+    "cover": "https://img.youtube.com/vi/bo_mkoII-wA/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=bo_mkoII-wA",
+    "category": "Anime"
+    },
+
+    {
+    "id": "BxeWoghBC0g",
+    "title": "Pokemon",
+    "cover": "https://img.youtube.com/vi/BxeWoghBC0g/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=BxeWoghBC0g",
+    "category": "Anime"
+    },
+
+    {
+    "id": "QczGoCmX-pI",
+    "title": "Naruto",
+    "cover": "https://img.youtube.com/vi/QczGoCmX-pI/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=QczGoCmX-pI",
+    "category": "Anime"
+    },
+
+    {
+    "id": "a8246R_OsdA",
+    "title": "YuGiOh",
+    "cover": "https://img.youtube.com/vi/a8246R_OsdA/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=a8246R_OsdA",
+    "category": "Anime"
+    },
+
+    {
+    "id": "u7EtzBT1ERU",
+    "title": "Dragon Ball",
+    "cover": "https://img.youtube.com/vi/u7EtzBT1ERU/mqdefault.jpg",
+    "url":"https://www.youtube.com/watch?v=u7EtzBT1ERU",
+    "category": "Anime"
+    }
+    
+
+]
